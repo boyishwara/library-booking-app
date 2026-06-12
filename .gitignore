@@ -24,3 +24,5 @@ public/css/output.css
 /.classpath
 .svn/
 .cache/
+docs/
+__pycache__/
